@@ -1,0 +1,17 @@
+Ранее мне никогда не доводилось писать код CRUD тестов самостоятельно. При разработке веб приложений на Django хватало
+самостоятельно вручную вставить нужны данные для проверки и убедиться том, что с запросами всё ок.
+
+Сначала копался в коде на https://editor.swagger.io/.
+
+Нашёл курсы по automation QA. Осваиваю материал.
+
+Читаю документацию по библиотекам unittest, pytest
+
+В любом случае со временем разберусь
+
+Надеюсь, мне помогут след. статьи:
+
+https://habr.com/ru/company/yandex/blog/517266/
+https://dzone.com/articles/how-to-use-swagger-ui-for-api-testing
+https://software-testing.ru/library/testing/testing-automation/3333-writing-tests-for-restful-apis-in-python-using-requests-part-1-basic-tests
+https://software-testing.ru/library/testing/testing-automation/3370-writing-tests-for-restful-apis-in-python-using-requests-part-2-data-driven-tests
