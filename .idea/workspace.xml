@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3a2fef0-9245-465d-93f5-3e889afdab45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task 1 (non comlete)/Read me. txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task 1 (non comlete)/Read me. Please. txt" beforeDir="false" afterPath="$PROJECT_DIR$/task 1 (non comlete)/Read me. Please. txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task 1 (non comlete)/Read me. Please. txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/task 1 (non comlete)/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task 1 (non comlete)/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task 3/Read me. Please. txt" beforeDir="false" afterPath="$PROJECT_DIR$/task 3/Read me. Please. txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task 3/Read me. Please. txt" beforeDir="false" afterPath="$PROJECT_DIR$/task 3/Read me. txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
       <workItem from="1622630691730" duration="1488000" />
       <workItem from="1622636832841" duration="4602000" />
       <workItem from="1622750038583" duration="173000" />
-      <workItem from="1622810609951" duration="1455000" />
+      <workItem from="1622810609951" duration="1810000" />
     </task>
     <servers />
   </component>
